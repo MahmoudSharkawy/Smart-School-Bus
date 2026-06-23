@@ -8,7 +8,7 @@
 Here is a live look at the production-ready operations radar panel:
 
 <p align="center">
-  <img src="screenshots/dashboard-light.png" alt="Smart School-Bus Matrix Dashboard" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.08);">
+  <img src="screenshots/002.png" alt="Smart School-Bus Matrix Dashboard" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.08);">
 </p>
 
 ### 🌟 Key Visual Features:
